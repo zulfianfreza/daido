@@ -1,0 +1,14 @@
+.hero {
+    height: 400px;
+    background-image: url("../img/hero.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.lowongan {
+    height: 300px;
+    width: 100%;
+    background-image: url("../img/hero.png");
+    background-position: center;
+    background-size: cover;
+}
